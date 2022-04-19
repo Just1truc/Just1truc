@@ -21,7 +21,7 @@ I learned a lot about algorithmic and discover many aspects of IT in many subjec
 If you are interested in what I studied, here are the [topics](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g).
 I worked 1 month on a project about databases using sql queries in python. This [project](https://github.com/Just1truc/Old-Python-Sql-Project) made me discover **SQL**.
 
-Now, I'm studying at **Epitech** discorvered many Languages. At epitech, i essencially worked in **C** at my IT School. However, in personnal project, i worked using **python**, **React** on a **Netflix** clone project and **express js**, **Docker**, **js**.
+Now, I'm studying at **Epitech** discorvered many Languages. At epitech, i essencially worked in **C** at my IT School. However, in personnal project, i worked using **python**, **React** on a [**Netflix**](https://github.com/Just1truc/NetflixLike-Citrus) clone project and **express js**, **Docker**, **js**.
 
 # My languages
 
