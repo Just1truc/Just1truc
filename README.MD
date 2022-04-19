@@ -5,7 +5,7 @@ If you're looking for a developper, you can check my projects on this account or
 
 Also, i'm currently looking for an intership in Fullstack for 6 month around the city of Lyon.
 
-#### My Story
+## My Story
 
 I discorvered the joy of programming when I was 12 years old, the day I followed a tutorial on *How to make a Rock-Paper-Scissors Game* in **Basic**. This was the first time I programmed. However, this interest quickly vanished after the end of my hollidays this year.
 
