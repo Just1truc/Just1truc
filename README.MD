@@ -1,7 +1,7 @@
 # About Me
 
 Hi, I'm a first year IT student at [**Epitech**](https://www.epitech.eu/), a High-level French IT School.
-If you're looking for a developper, you can check my projects on this account or my resume on my [linkedin](https://www.linkedin.com/in/justin-duc-51b09b225/).
+If you're looking for a developer, you can check my projects on this account or my resume on my [linkedin](https://www.linkedin.com/in/justin-duc-51b09b225/).
 
 Also, i'm currently looking for an intership in Fullstack for 6 month around the city of Lyon.
 
