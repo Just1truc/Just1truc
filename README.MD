@@ -14,7 +14,7 @@ At the time, I wanted to be a *game designer* so choose Maths, Computer Science 
 
 During that year, i discovered many programming languages and the basics of IT. I also began to specialize in the use of **Python** as it was the language that we studied the most. However, I also tried **HTML/CSS**.
 
-During summer, I tried using pygame to make a video game but it wasn't that great. While making this game, i learned about **OOP**.
+During summer, I tried using pygame to make a video game but it wasn't that great. While making this game, i learned about **OOP** concept.
 
 The next year, I had to decide which speciality I would drop and specialise in the other 2. As I tought Art was useless, I decided to drop it and therefore specialize in Maths and Computer Science taking as an optionnal speciality *Math Expert*.
 I learned a lot about algorithmic and discover many aspects of IT in many subjects.
