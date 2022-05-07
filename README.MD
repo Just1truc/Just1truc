@@ -16,7 +16,7 @@ During that year, i discovered many programming languages and the basics of IT. 
 
 During summer, I tried using pygame to make a video game but it wasn't that great. While making this game, i learned about **OOP** concept.
 
-The next year, I had to decide which speciality I would drop and specialise in the other 2. As I tought Art was useless, I decided to drop it and therefore specialize in Maths and Computer Science taking as an optionnal speciality *Math Expert*.
+The next year, I had to decide which speciality I would drop and specialise in the other 2. As I tought Art was useless, I decided to drop it and therefore specialize in Maths and Computer Science taking as an optional speciality *Math Expert*.
 I learned a lot about algorithmic and discover many aspects of IT in many subjects.
 If you are interested in what I studied, here are the [topics](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g).
 I worked 1 month on a project about databases using sql queries in python. This [project](https://github.com/Just1truc/Old-Python-Sql-Project) made me discover **SQL**.
