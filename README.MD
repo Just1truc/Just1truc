@@ -12,7 +12,7 @@ I discorvered the joy of programming when I was 12 years old, the day I followed
 2 years Later, when I was 14 years, I had to choose the specialities I would study for 2 years for my *baccalaureat*.
 At the time, I wanted to be a *game designer* so choose Maths, Computer Science and Art.
 
-During that year, i discovered many programming languages and the basics of IT. I also began to specialize in the use of **Python** as it was the language that we studied the most. However, I tried **HTML/CSS**.
+During that year, i discovered many programming languages and the basics of IT. I also began to specialize in the use of **Python** as it was the language that we studied the most. However, I also tried **HTML/CSS**.
 
 During summer, I tried using pygame to make a video game but it wasn't that great. While making this game, i learned about **OOP**.
 
