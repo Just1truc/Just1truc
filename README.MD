@@ -23,7 +23,7 @@ I worked 1 month on a project about databases using sql queries in python. This 
 
 Now, I'm studying at **Epitech** and I'm discovering many Languages. At Epitech, i essencially worked in **C** on project such as a [**file compressor**](https://github.com/Just1truc/Antman-EPITECH) and a simple [**game in CSFML**](https://github.com/Just1truc/GeometrySlime). However, as personnal project, i worked using **python** on a [**Norminette**](https://github.com/Just1truc/Abricot-Norminette), **React** on a [**Netflix**](https://github.com/Just1truc/NetflixLike-Citrus) clone project and **express js**, **Docker**, **js**.
 
-I'm currently working on a firefox addon that would block ads on websites.
+I'm currently working a [trojan](https://github.com/Just1truc/Argos).
 
 # My languages
 
