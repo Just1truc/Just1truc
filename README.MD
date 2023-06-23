@@ -1,30 +1,13 @@
 # About Me
 
-Hi, I'm a first year IT student at [**Epitech**](https://www.epitech.eu/), a High-level French IT School.
-If you're looking for a developer, you can check my projects on this account or my resume on my [linkedin](https://www.linkedin.com/in/justin-duc-51b09b225/).
+Les Lazaristes's high school (NSI, Math) -> Epitech First Year -> Internship at Visiativ -> Epitech Second Year / POC IA developper.
 
-Also, i'm currently looking for an intership in Fullstack for 6 month around the city of Lyon.
+I'm currently a student at Epitech finishing its second year.
+I've worked on various project through diverse fields of computer science. Through this projects, i found myself liking IA concepts and particularly ML algorithms and models.
+Math was always missing in my projects since I ended highschool and I happened to miss it, so reconnecting to it thourgh the linear algebra and statistical problems that most models in ml impose was really refreshing.
 
-## My Story
-
-I discorvered the joy of programming when I was 12 years old, the day I followed a tutorial on *How to make a Rock-Paper-Scissors Game* in **Basic**. This was the first time I programmed. However, this interest quickly vanished after the end of my hollidays this year.
-
-2 years Later, when I was 14 years, I had to choose the specialities I would study for 2 years for my *baccalaureat*.
-At the time, I wanted to be a *game designer* so choose Maths, Computer Science and Art.
-
-During that year, i discovered many programming languages and the basics of IT. I also began to specialize in the use of **Python** as it was the language that we studied the most. However, I also tried **HTML/CSS**.
-
-During summer, I tried using pygame to make a video game but it wasn't that great. While making this game, i learned about **OOP** concept.
-
-The next year, I had to decide which speciality I would drop and specialise in the other 2. As I tought Art was useless, I decided to drop it and therefore specialize in Maths and Computer Science taking as an optional speciality *Math Expert*.
-I learned a lot about algorithmic and discover many aspects of IT in many subjects.
-If you are interested in what I studied, here are the [topics](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g).
-I worked 1 month on a project about databases using sql queries in python. This [project](https://github.com/Just1truc/Old-Python-Sql-Project) made me discover **SQL**.
-
-Now, I'm studying at **Epitech** and I'm discovering many Languages. At Epitech, i essencially worked in **C** on project such as a [**file compressor**](https://github.com/Just1truc/Antman-EPITECH) and a simple [**game in CSFML**](https://github.com/Just1truc/GeometrySlime). However, as personnal project, i worked using **python** on a [**Norminette**](https://github.com/Just1truc/Abricot-Norminette), **React** on a [**Netflix**](https://github.com/Just1truc/NetflixLike-Citrus) clone project and **express js**, **Docker**, **js**.
-
-I've created a *non-finished* bu barely functionnal [**trojan**](https://github.com/Just1truc/Argos).
-After that, i needed to learn **Angular** for my intership. I decided to learn through personnals projects and made this [**website**](https://abricot-normi.tk) that is an online version of abricot norminette.
+I've done my first good enough ml project as a copy of the library **pytorch**. Through my work, I learned the inner functionnement of many libraries and ml concepts.
+As a POC member, I worked on two project and even if the first one wasn't a success, i learned a lot from it.   
 
 # My languages
 
