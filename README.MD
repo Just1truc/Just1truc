@@ -3,7 +3,7 @@
 Les Lazaristes's high school (NSI, Math) -> Epitech First Year -> Internship at Visiativ -> Epitech Second Year / POC IA developper.
 
 I'm currently a student at Epitech finishing its second year.
-I've worked on various project through diverse fields of computer science. Through this projects, i found myself liking IA concepts and particularly ML algorithms and models.
+I've worked on various projects through diverse fields of computer science. Through this projects, i found myself liking IA concepts and particularly ML algorithms and models.
 Math was always missing in my projects since I ended highschool and I happened to miss it, so reconnecting to it thourgh the linear algebra and statistical problems that most models in ml impose was really refreshing.
 
 I've done my first good enough ml project as a copy of the library **pytorch**. Through my work, I learned the inner functionnement of many libraries and ml concepts.
