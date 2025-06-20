@@ -1,6 +1,6 @@
 # 👋 Justin Duc (Just1truc)
 
-> *“Slowly but efficiently learning.”*  
+> *“Attention is all I need”*  
 > Building performant AI infrastructure from first principles.
 
 ---
