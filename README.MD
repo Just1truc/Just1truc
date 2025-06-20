@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a final-year student at **EPITECH Lyon** and recently completed an exchange year at **Tsinghua University**.  
+I’m a final-year student at **EPITECH Lyon** and recently completed an exchange year at **Tsinghua University**. While at Tsinghua, I was part of the team that earned the Leader Award at Chengdu 80 (2024) — a prestigious international FinTech competition.
 With **5 years of hands-on software experience** across the stack, I’ve explored nearly every major domain of computer science and chosen to **specialize in Artificial Intelligence**.  
 I enjoy digging into the math and systems engineering that power modern ML—then open-sourcing the tools I wish existed.
 
