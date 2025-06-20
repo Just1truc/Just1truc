@@ -1,23 +1,58 @@
-# About Me
+# 👋 Justin Duc (Just1truc)
 
-Les Lazaristes's high school (NSI, Math) -> Epitech First Year -> Internship at Visiativ -> Epitech Second Year / POC IA developper.
+> *“Slowly but efficiently learning.”*  
+> Building performant AI infrastructure from first principles.
 
-I'm currently a student at Epitech finishing its second year.
-I've worked on various projects through diverse fields of computer science. Through this projects, i found myself liking IA concepts and particularly ML algorithms and models.
-Math was always missing in my projects since I ended highschool and I happened to miss it, so reconnecting to it thourgh the linear algebra and statistical problems that most models in ml impose was really refreshing.
+---
 
-I've done my first good enough ml project as a copy of the library **pytorch**. Through my work, I learned the inner functionnement of many libraries and ml concepts.
-As a POC member, I worked on two project and even if the first one wasn't a success, i learned a lot from it.   
+### 🧑‍💻 About Me
 
-# My languages
+I’m a final-year student at **EPITECH Lyon** and recently completed an exchange year at **Tsinghua University**.  
+With **5 years of hands-on software experience** across the stack, I’ve explored nearly every major domain of computer science and chosen to **specialize in Artificial Intelligence**.  
+I enjoy digging into the math and systems engineering that power modern ML—then open-sourcing the tools I wish existed.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just1truc&theme=tokyonight)
+---
 
-# My Stats
+### 💼 Core Competencies
 
-[![Les Stats GitHub de Just1truc](https://github-readme-stats.vercel.app/api?username=Just1truc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| Field | Keywords |
+|-------|----------|
+| **AI / ML** | sub-quadratic attention, autograd engines, model compression, NLP |
+| **Systems** | C / C++, GPU & SIMD optimization, multithreading, low-level profiling |
+| **Data Infra** | distributed training, big-data ETL, high-throughput I/O |
+| **Languages** | Python, C, C++, TypeScript, JavaScript, Bash, SQL, … |
+| **Frameworks** | PyTorch, CUDA, React/Next, Docker, WebRTC |
 
-# My links
+---
 
-[![linkeding bage](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/justin-duc-51b09b225/)
-[![mail](https://img.shields.io/badge/-Mail-0078D4?logo=Microsoft-Outlook&style=for-the-badge)](mailto:justin.duc@epitech.eu)
+### 🚀 Notable Projects
+
+| Project | Brief |
+|---------|-------|
+| [`treat`](https://github.com/Just1truc/treat) | **Novel sub-quadratic attention** framework built on *Binary-Tree Attention Trees* composed from Linear Attention. Achieves **O(n log n)** context aggregation while retaining full-sequence fidelity. |
+| [`saute`](https://github.com/tzhengtek/saute) | Multi-party discourse processor with **hierarchical EDU-level parsing** and **speaker-aware memory**, implemented via stacked linear-attention blocks for efficient long-context reasoning. |
+| [`dtorch`](https://github.com/Just1truc/dtorch) | Minimal autograd + neural-network library—clean codebase for educational deep-learning research. |
+| [`Argos`](https://github.com/Just1truc/Argos) | Real-time remote desktop manager leveraging WebRTC, Socket.IO, and low-level thread orchestration. |
+| [`excalidraw-latex-gen`](https://github.com/Just1truc/excalidraw-latex-gen) | CLI to generate LaTeX-based Excalidraw diagrams automatically. |
+| [`Abricot-Norminette`](https://github.com/Just1truc/Abricot-Norminette) | Ultra-fast, multithreaded C style-checker adopted by EPITECH cohorts. |
+
+---
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Just1truc&layout=compact&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Just1truc&show_icons=true)
+
+---
+
+### 🌐 Where to Find Me
+
+- 💼 [LinkedIn — Justin Duc](https://www.linkedin.com/in/justin-duc/)
+- 🤖 [Hugging Face — @JustinDuc](https://huggingface.co/JustinDuc)
+- 📧 Reach out via GitHub or LinkedIn
+
+---
+
+Although I’ve delved into everything from compiler design to distributed systems, **AI remains my primary focus**. Blockchain is about the only field I haven’t explored—yet.
+
+Thanks for stopping by! 🚀
